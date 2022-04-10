@@ -1,0 +1,10 @@
+D:\labs\OOP\OOP_4_2-master\bin\Debug\OOP_4_2.exe.config
+D:\labs\OOP\OOP_4_2-master\bin\Debug\OOP_4_2.exe
+D:\labs\OOP\OOP_4_2-master\bin\Debug\OOP_4_2.pdb
+D:\labs\OOP\OOP_4_2-master\obj\Debug\OOP_4_2.csproj.AssemblyReference.cache
+D:\labs\OOP\OOP_4_2-master\obj\Debug\OOP_42.Form_main.resources
+D:\labs\OOP\OOP_4_2-master\obj\Debug\OOP_4_2.Properties.Resources.resources
+D:\labs\OOP\OOP_4_2-master\obj\Debug\OOP_4_2.csproj.GenerateResource.cache
+D:\labs\OOP\OOP_4_2-master\obj\Debug\OOP_4_2.csproj.CoreCompileInputs.cache
+D:\labs\OOP\OOP_4_2-master\obj\Debug\OOP_4_2.exe
+D:\labs\OOP\OOP_4_2-master\obj\Debug\OOP_4_2.pdb
